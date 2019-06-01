@@ -1,0 +1,4 @@
+#Thu Mar 14 18:36:12 EDT 2019
+base.0=C\:\\Users\\areeb\\AndroidStudioProjects\\GroupMessenger2\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
